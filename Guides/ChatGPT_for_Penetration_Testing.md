@@ -25,27 +25,42 @@ This guide aims to explain how ChatGPT can assist penetration testers in their d
 ChatGPT can offer insights and methodologies for various reconnaissance activities. You can ask for steps to perform DNS enumeration, subdomain scanning, and more.
 
 ```plaintext
+
 > ChatGPT, walk me through the steps for DNS enumeration.
-Phishing Campaigns
+
+## Phishing Campaigns
+
 Crafting effective phishing emails can often require creativity. ChatGPT can help by providing tips on creating convincing phishing emails or even generating sample templates.
 
 ```plaintext
+
 > ChatGPT, help me draft a phishing email template.
-Code Review
+
+## Code Review
+
 While not a replacement for specialized code analysis tools, ChatGPT can assist in identifying potential code smells or insecure coding practices within small snippets of code.
 
 ```plaintext
+
 > ChatGPT, does this piece of code look secure to you?
-Report Generation
+
+## Report Generation
+
 After concluding the penetration test, writing an exhaustive report is essential. ChatGPT can help in structuring the report and even provide recommendations on what to include in each section.
 
 ```plaintext
+
 > ChatGPT, how should I structure my penetration testing report?
+
 ## Limitations
-Not a specialized cybersecurity tool
+
+Not a specialized cybersecurity tool 
 Cannot perform real-time scanning or exploitation
-Disclaimer
+
+## Disclaimer
+
 This guide and ChatGPT should not be your only resource for penetration testing. Always ensure you have proper authorization before conducting any penetration testing activities. ChatGPT is not a specialized security tool and should be used as a supplementary resource.
 
 ## Conclusion
+
 ChatGPT offers various ways to assist penetration testers, but it's important to remember its limitations. It should be used as a supplementary tool and not as a primary resource for conducting penetration tests.
