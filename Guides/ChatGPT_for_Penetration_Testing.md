@@ -34,7 +34,7 @@ Crafting effective phishing emails can often require creativity. ChatGPT can hel
 > ChatGPT, help me draft a phishing email template.```
 
 
- ## Code Review
+## Code Review
 
 While not a replacement for specialized code analysis tools, ChatGPT can assist in identifying potential code smells or insecure coding practices within small snippets of code.
 
