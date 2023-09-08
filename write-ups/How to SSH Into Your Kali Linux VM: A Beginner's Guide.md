@@ -12,30 +12,30 @@ Kali Linux is a popular operating system used for penetration testing and ethica
 
 ## **Step 1: Update Package Lists**
 Open the terminal in your Kali Linux VM and execute the following command to update your package list:
-![Image description](Markdownfiles/1.png)
-
+![Image description](https://github.com/Hackroop/jags/blob/main/Markdownfiles/1.png)
 
 ## **Step 2: Install the OpenSSH Server Package**
 Execute the following command to install the OpenSSH Server:
-![Image description](Markdownfiles/2.png)
+![Image description](https://github.com/Hackroop/jags/blob/main/Markdownfiles/2.png)
 
 
 ## **Step 3: Start and Enable the SSH Service**
 After installing, you need to start the SSH service. You can also enable it to start automatically upon system boot.
-![Image description](Markdownfiles/3.png)
+
+![Image description](https://github.com/Hackroop/jags/blob/main/Markdownfiles/3.png)
 
 
 ## **Step 4: Verify SSH Service Status**
 To ensure that the SSH service is running correctly, you can check its status:
 
-![Image description](Markdownfiles/4.png)
+![Image description](https://github.com/Hackroop/jags/blob/main/Markdownfiles/4.png)
 
 
 ## **Step 5: Obtain the IP Address of Your Kali Linux VM**
 
 To SSH into your Kali Linux VM, you'll need to know its IP address. You can find this information by running:
 
-![Image description](Markdownfiles/5.png)
+![Image description](https://github.com/Hackroop/jags/blob/main/Markdownfiles/5.png)
 
 Look for the IP address listed under your active network interface.
 
@@ -43,7 +43,7 @@ Look for the IP address listed under your active network interface.
 ## **Step 6: SSH from Your Host Machine**
 Now, open a terminal on your host machine and execute the following command:
 
-![Image description](Markdownfiles/6.png)
+![Image description](https://github.com/Hackroop/jags/blob/main/Markdownfiles/6.png)
 
 
 Replace `username` with your Kali Linux username and `KALI_VM_IP_ADDRESS` with the IP address you obtained earlier.
@@ -52,7 +52,7 @@ Replace `username` with your Kali Linux username and `KALI_VM_IP_ADDRESS` with t
 _SSH keys offer a more secure way of logging into a server. To generate an SSH key pair, you can use the following command on your host machine:_
 
 
-![Image description](Markdownfiles/option.png)
+![Image description](https://github.com/Hackroop/jags/blob/main/Markdownfiles/option.png)
 
 
 
