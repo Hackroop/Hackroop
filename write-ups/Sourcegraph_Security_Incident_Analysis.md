@@ -40,5 +40,3 @@ While no sensitive data such as passwords or private code was exposed, the attac
 - Implement more stringent code review processes.
 - Enhance monitoring systems to catch unauthorized admin-level activities.
 - Conduct a full security audit to identify any other potential vulnerabilities.
-
-:wq
