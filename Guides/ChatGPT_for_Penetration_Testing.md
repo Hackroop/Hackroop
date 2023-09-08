@@ -31,7 +31,8 @@ ChatGPT can offer insights and methodologies for various reconnaissance activiti
 Crafting effective phishing emails can often require creativity. ChatGPT can help by providing tips on creating convincing phishing emails or even generating sample templates.
 
 ```
- > ChatGPT, help me draft a phishing email template.```
+ > ChatGPT, help me draft a phishing email template.
+```
 
 
 ## Code Review
@@ -39,7 +40,8 @@ Crafting effective phishing emails can often require creativity. ChatGPT can hel
 While not a replacement for specialized code analysis tools, ChatGPT can assist in identifying potential code smells or insecure coding practices within small snippets of code.
 
 ```
- > ChatGPT, does this piece of code look secure to you?```
+ > ChatGPT, does this piece of code look secure to you?
+```
 
 
 ## Report Generation
@@ -47,7 +49,8 @@ While not a replacement for specialized code analysis tools, ChatGPT can assist 
 After concluding the penetration test, writing an exhaustive report is essential. ChatGPT can help in structuring the report and even provide recommendations on what to include in each section.
 
 ```
- > ChatGPT, how should I structure my penetration testing report?```
+ > ChatGPT, how should I structure my penetration testing report?
+```
 
 
 ## Limitations
