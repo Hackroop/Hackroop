@@ -18,7 +18,6 @@ As a penetration tester, security incidents like the recent one at Sourcegraph o
 ### Incident Overview
 On August 30, 2023, Sourcegraph experienced a security breach. An unauthorized user gained admin access to Sourcegraph's public instance via a leaked admin token.
 
-**Filename**: `Incident_Overview.md`
 
 ---
 
@@ -27,8 +26,6 @@ While no sensitive data such as passwords or private code was exposed, the attac
 - **Paid Customers**: License key recipients' names and email addresses.
 - **Community Users**: Email addresses.
 
-**Filename**: `Data_Exposure.md`
-
 ---
 
 ### Analysis
@@ -36,7 +33,6 @@ While no sensitive data such as passwords or private code was exposed, the attac
 2. **Monitoring Gaps**: Sourcegraph detected the breach quite late, suggesting that their monitoring systems may need improvement.
 3. **Swift Response**: After detecting the breach, Sourcegraph acted quickly to neutralize the threat.
 
-**Filename**: `Analysis.md`
 
 ---
 
@@ -45,5 +41,4 @@ While no sensitive data such as passwords or private code was exposed, the attac
 - Enhance monitoring systems to catch unauthorized admin-level activities.
 - Conduct a full security audit to identify any other potential vulnerabilities.
 
-**Filename**: `Recommendations.md`
 :wq
