@@ -39,7 +39,6 @@ Crafting effective phishing emails can often require creativity. ChatGPT can hel
 While not a replacement for specialized code analysis tools, ChatGPT can assist in identifying potential code smells or insecure coding practices within small snippets of code.
 
 ```
-
 > ChatGPT, does this piece of code look secure to you?```
 
 
