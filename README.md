@@ -1,8 +1,7 @@
 Jag Sidhu
 United States
 Email: hackroop@gmail.com
-LinkedIn: [linkedin.com/in/jagroopsidhu90](https://www.linkedin.com/in/jagroopsidhu90)
-Discord: [![Discord](https://img.shields.io/badge/Discord-jags90-blue?logo=discord&style=flat-square)](https://discord.com/invite/jags90)
+LinkTree: linktr.ee/jagroopsidhu
 
 
 Summary
