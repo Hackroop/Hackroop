@@ -1,4 +1,4 @@
-Jag Sidhu
+# Jag Sidhu
 
 United States
 
@@ -7,10 +7,11 @@ Email: hackroop@gmail.com
 LinkTree: https://linktr.ee/jagroopsidhu
 
 
-Summary
+## Summary
+
 Passionate about technology, I am transitioning into the field of cybersecurity with a focus on becoming a Penetration Tester. My diverse background in IT and data analysis equips me with unique problem-solving skills and strategic thinking.
 
-Technical Skills:
+## Technical Skills:
 - Linux and Windows command lines
 - Windows PowerShell
 - SSH
@@ -20,9 +21,9 @@ Technical Skills:
 
 I excel in explaining complex concepts and have mentored emerging professionals. Committed to continuous learning, I bring a growth mindset and resilience to my new career path.
 
-Experience
+## Experience
 
-Student Practitioner
+### Student Practitioner
 Divergence Academy
 May 2023 - Present (5 months)
 
@@ -34,7 +35,7 @@ May 2023 - Present (5 months)
 
 My training at Divergence Academy has empowered me with the technical skills and practical experience needed to address a wide range of cybersecurity challenges, positioning me as a strong contributor to any complex, multi-faceted operation.
 
-Realtor (Adapted)
+## Realtor (Adapted)
 Lyon Real Estate (Adapted)
 Oct 2017 - Present (6 years)
 
@@ -47,7 +48,7 @@ In my role as a successful Realtor:
 
 My professional accomplishments, combined with my passion for continuous learning, make me an asset in the dynamic field of cybersecurity. My ability to analyze, strategize, and solve problems efficiently aligns with the core competencies sought in cybersecurity professionals.
 
-Peer Mentor (Adapted)
+## Peer Mentor (Adapted)
 Lyon Real Estate (Adapted)
 May 2021 - Nov 2022 (1 year 7 months)
 
@@ -59,7 +60,7 @@ In my role as a Peer Mentor for Lyon Real Estate:
 
 These experiences underscore my ability to guide and educate others, a critical aspect of cybersecurity roles, which often involve educating teams about security protocols and threats.
 
-Transportation Operations Manager (Adapted)
+## Transportation Operations Manager (Adapted)
 Rampage Trucking LLC (Adapted)
 2013 - 2015 (2 years)
 
@@ -69,7 +70,7 @@ I also played a key role in ensuring compliance with all state and federal shipp
 
 In this role, I was dedicated to maintaining the highest quality standards while also implementing efficient logistics practices. These skills align with attributes highly valued in cybersecurity roles, such as managing complex operations and ensuring compliance.
 
-Aviation Administration Supervisor (Adapted)
+## Aviation Administration Supervisor (Adapted)
 United States Marine Corps (Adapted)
 2008 - 2012 (4 years)
 
@@ -80,7 +81,7 @@ In my role as an Aviation Administration Supervisor:
 -Personnel Training:Experience in work assignment planning, schedule creation, and personnel training.
 -Communication Skills: Facilitated group discussions, critiqued subordinate communication skills, and prepared performance evaluations.
 
-System Administrator & Database Administrator (Cybersecurity Aware)
+## System Administrator & Database Administrator (Cybersecurity Aware)
 United States Marine Corps (Adapted)
 2008 - 2012 (4 years)
 
@@ -99,13 +100,13 @@ My experience as a System Administrator & Database Administrator equipped me wit
 
 These skills and experiences highlight my ability to manage complex, multi-faceted operations, execute strategic planning, and excel in leadership roles, which are highly valuable in the field of cybersecurity.
 
-Education
+## Education
 
 Divergence Academy
 Cybersecurity/ Penetration Testing, Cybersecurity
 May 2023 - Sep 2023
 
-Licenses & Certifications
+## Licenses & Certifications
 
 - System Administrator's course- NALCOMIS (Naval Aviation Logistics Command Information System) OOMA (Optimized Organizational Maintenance Activity) - Center for Naval Aviation Technical Training Unit
 - Data System Administrator - National Technical Association
@@ -132,7 +133,7 @@ Licenses & Certifications
 - CompTIA Security+ Cert Prep Infrastructure Ready - Divergence Academy
 - CompTIA Security+ Cert Prep Automation Ready - Divergence Academy
 
-Skills
+## Skills
 - System Security
 - Network Administration
 - Network Security
@@ -143,4 +144,3 @@ Skills
 - Configuration and Deployment
 - Hardware and System Configuration
 - Disaster Recovery
-
