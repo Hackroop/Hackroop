@@ -1,6 +1,9 @@
 Jag Sidhu
+
 United States
+
 Email: hackroop@gmail.com
+
 LinkTree: linktr.ee/jagroopsidhu
 
 
