@@ -12,12 +12,13 @@ LinkTree: https://linktr.ee/jagroopsidhu
 Passionate about technology, I am transitioning into the field of cybersecurity with a focus on becoming a Penetration Tester. My diverse background in IT and data analysis equips me with unique problem-solving skills and strategic thinking.
 
 ## Technical Skills:
-- Linux and Windows command lines
-- Windows PowerShell
-- SSH
-- GNS3
-- Putty
-- FortiGate
+
+- [Linux](https://en.wikipedia.org/wiki/Linux) and [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) command lines
+- [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/)
+- [SSH](https://en.wikipedia.org/wiki/SSH_(Secure_Shell))
+- [GNS3](https://www.gns3.com/)
+- [Putty](https://www.putty.org/)
+- [FortiGate](https://www.fortinet.com/products/next-generation-firewall)
 
 I excel in explaining complex concepts and have mentored emerging professionals. Committed to continuous learning, I bring a growth mindset and resilience to my new career path.
 
