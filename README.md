@@ -4,7 +4,7 @@ United States
 
 Email: hackroop@gmail.com
 
-LinkTree: linktr.ee/jagroopsidhu
+LinkTree: https://linktr.ee/jagroopsidhu
 
 
 Summary
