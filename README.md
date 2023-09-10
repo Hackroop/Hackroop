@@ -32,7 +32,7 @@ May 2023 - Present (5 months)
 
 -Incident Response: Practiced in devising and executing incident response plans, complemented by skills in digital forensics to ensure data integrity and compliance.
 
--Network Manageme: Successfully designed and deployed SMB networks, focusing on LAN, DMZ, and guest networks, using GNS3 for network simulation and design.
+-Network Management: Successfully designed and deployed SMB networks, focusing on LAN, DMZ, and guest networks, using GNS3 for network simulation and design.
 
 -Server Operations: Proficient in setting up IIS and FTP servers in a Windows environment and establishing a LAMP webserver on Ubuntu. Comfortable using both Windows and Linux command-line tools and familiar with remote server management via PuTTY and SSH.
 
