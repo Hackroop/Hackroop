@@ -2,9 +2,8 @@
 
 United States
 
-Email: hackroop@gmail.com
+Email: vq5r8x@protnmail.com
 
-LinkTree: https://linktr.ee/jagroopsidhu
 
 
 ## Summary
@@ -26,7 +25,7 @@ I excel in explaining complex concepts and have mentored emerging professionals.
 
 ### Student Practitioner
 Divergence Academy
-May 2023 - Present (5 months)
+May 2023 - Sept 2023 (5 months)
 
 -Cybersecurity: Specialized in identifying and mitigating attacks, threats, and vulnerabilities. Gained hands-on experience in threat detection and vulnerability assessment.
 
