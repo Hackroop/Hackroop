@@ -2,8 +2,6 @@
 
 United States
 
-Email: vq5r8x@protnmail.com
-
 
 
 ## Summary
@@ -125,6 +123,8 @@ Cybersecurity/ Penetration Testing, Cybersecurity
 May 2023 - Sep 2023
 
 ## Licenses & Certifications
+
+- CompTIA Security + CE - CompTIA (2024-2027)
 
 - System Administrator's course- NALCOMIS (Naval Aviation Logistics Command Information System) OOMA (Optimized Organizational Maintenance Activity) - Center for Naval Aviation Technical Training Unit
 
